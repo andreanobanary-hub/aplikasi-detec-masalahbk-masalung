@@ -1,0 +1,6 @@
+{
+  "name": "KonselorBK AI - Asisten Guru BK SMP",
+  "description": "Asisten AI cerdas untuk Guru BK SMP: analisis curhatan dan kuesioner siswa, identifikasi bidang masalah (Pribadi, Sosial, Belajar, Karier), penilaian tingkat urgensi, serta rekomendasi tindakan awal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
