@@ -1,7 +1,7 @@
-import tailwindcss from '@tailwindcss/vite';
+import tailwindcss from '"@tailwindcss/vite": "^4.0.0"';
 import react from '@vitejs/plugin-react';
 import path from 'path';
-import {defineConfig} from 'vite';
+import {defineConfig} from '"vite": "^5.4.2"';
 
 export default defineConfig(() => {
   return {
